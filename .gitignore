@@ -1,7 +1,9 @@
 Debug
 Release
+x64
 *.opensdf
 *.sdf
 *.suo
 *.user
 *.ipch
+.picasa.ini
